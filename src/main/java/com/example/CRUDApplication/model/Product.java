@@ -25,7 +25,6 @@ public class Product {
     }
 
     // Gettery i settery
-    // Możesz również dodać inne metody, jeśli są potrzebne
 
     public Long getId() {
         return id;
